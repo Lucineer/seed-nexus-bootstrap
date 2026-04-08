@@ -1,6 +1,6 @@
 # seed-nexus-bootstrap
 
-Domain code generator with NEXUS safety tier + reflex bytecode from day one
+Domain code generator with NEXUS safety tier from day one.
 
 Part of the [Cocapn fleet](https://github.com/Lucineer/the-fleet).
 
